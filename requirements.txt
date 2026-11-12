@@ -1,0 +1,11 @@
+numpy>=2.0
+rasterio>=1.4
+scipy>=1.11
+scikit-image>=0.22
+matplotlib>=3.8
+pillow>=10.0
+requests>=2.31
+pyproj>=3.6
+pystac-client>=0.7
+keras>=3.0
+tensorflow>=2.16

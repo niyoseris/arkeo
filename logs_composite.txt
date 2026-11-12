@@ -1,0 +1,34 @@
+
+=== DRY mevsimi ===
+  2019:  30 uygun -> 3 secildi
+  2020:  33 uygun -> 3 secildi
+  2021:  30 uygun -> 3 secildi
+  2022:  15 uygun -> 3 secildi
+  2023:  13 uygun -> 3 secildi
+  2024:  15 uygun -> 3 secildi
+  2025:  19 uygun -> 3 secildi
+toplam secilen: 21 sahne
+  [1/6] blue   : 21 sahne, gecerli medyan piksel=21, medyan=0.1241, 132s
+  [2/6] green  : 21 sahne, gecerli medyan piksel=21, medyan=0.1682, 198s
+  [3/6] red    : 21 sahne, gecerli medyan piksel=21, medyan=0.2182, 233s
+  [4/6] nir    : 21 sahne, gecerli medyan piksel=21, medyan=0.3074, 113s
+  [5/6] swir16 : 21 sahne, gecerli medyan piksel=21, medyan=0.3797, 65s
+  [6/6] swir22 : 21 sahne, gecerli medyan piksel=21, medyan=0.3059, 37s
+-> /Users/niyoseris/Desktop/Python/arkeo/data/comp_dry.tif  (804s toplam)
+
+=== GREEN mevsimi ===
+  2019:   3 uygun -> 2 secildi
+  2020:   6 uygun -> 2 secildi
+  2021:  12 uygun -> 2 secildi
+  2022:   3 uygun -> 2 secildi
+  2023:   4 uygun -> 2 secildi
+  2024:   3 uygun -> 2 secildi
+  2025:   7 uygun -> 2 secildi
+toplam secilen: 14 sahne
+  [1/6] blue   : 14 sahne, gecerli medyan piksel=14, medyan=0.0587, 82s
+  [2/6] green  : 14 sahne, gecerli medyan piksel=14, medyan=0.1008, 115s
+  [3/6] red    : 14 sahne, gecerli medyan piksel=14, medyan=0.1186, 115s
+  [4/6] nir    : 14 sahne, gecerli medyan piksel=14, medyan=0.3180, 78s
+  [5/6] swir16 : 14 sahne, gecerli medyan piksel=14, medyan=0.2491, 57s
+  [6/6] swir22 : 14 sahne, gecerli medyan piksel=14, medyan=0.1728, 34s
+-> /Users/niyoseris/Desktop/Python/arkeo/data/comp_green.tif  (495s toplam)
